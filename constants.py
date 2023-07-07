@@ -7,4 +7,4 @@ class const(object):
 
     def __setattr__(self, *_):
         pass
-
+#123
